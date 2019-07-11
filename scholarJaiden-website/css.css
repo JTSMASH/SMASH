@@ -1,0 +1,30 @@
+body {
+background-color: lightgreen;
+}
+#light{
+width: 20%;
+border: 5px solid black;
+margin: auto;
+background-color: lightblue;
+}
+.box{
+width: 75px; height: 75px;
+border: solid 5px black;
+margin: 20px auto;
+border-radius: 50px;
+}
+#red:hover{ 
+background: linear-gradient(to right, 
+#ee9ca7,#ffdde1); }
+
+
+#yellow:hover{
+ background: linear-gradient(to right, 
+#c471ed,#12c2e9); }
+
+#green:hover{
+background: linear-gradient(to right, 
+#8E2DE2,#4A00E0);
+}
+
+
